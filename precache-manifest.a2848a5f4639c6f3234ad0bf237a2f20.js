@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e2bff06fd4e806d71ae1443788fad900",
+    "revision": "c5db88e5583903d4fe421deb58098950",
     "url": "/Attendance/index.html"
   },
   {
-    "revision": "57dc019147d96215dc76",
+    "revision": "0efbdefe1ca3d1c58ad0",
     "url": "/Attendance/static/css/2.3c466dc9.chunk.css"
   },
   {
-    "revision": "2c3cb8644185946d60d6",
+    "revision": "b892d91215a62745dc7c",
     "url": "/Attendance/static/css/main.f07deaa4.chunk.css"
   },
   {
-    "revision": "57dc019147d96215dc76",
-    "url": "/Attendance/static/js/2.68d07724.chunk.js"
+    "revision": "0efbdefe1ca3d1c58ad0",
+    "url": "/Attendance/static/js/2.a9cf96b5.chunk.js"
   },
   {
     "revision": "5bd09eb7f2cf4d145d532d862be18942",
-    "url": "/Attendance/static/js/2.68d07724.chunk.js.LICENSE.txt"
+    "url": "/Attendance/static/js/2.a9cf96b5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2c3cb8644185946d60d6",
-    "url": "/Attendance/static/js/main.8262d7b6.chunk.js"
+    "revision": "b892d91215a62745dc7c",
+    "url": "/Attendance/static/js/main.0be1f534.chunk.js"
   },
   {
-    "revision": "103156d028ff72c38103",
-    "url": "/Attendance/static/js/runtime-main.d36a5e1f.js"
+    "revision": "aa5a90de90c4863be207",
+    "url": "/Attendance/static/js/runtime-main.9bc3b6bb.js"
   },
   {
     "revision": "4f1962430e203876a62dc10e7652b593",
