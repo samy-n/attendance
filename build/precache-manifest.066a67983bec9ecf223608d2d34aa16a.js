@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8b39819f0bcc09b067c0c0206c6e6bc7",
+    "revision": "97bc0fd41aa2046f1a572a9d47ba7ae6",
     "url": "/attendance/index.html"
   },
   {
-    "revision": "e481370f372befe426f9",
+    "revision": "e24e81378618025b9ec0",
     "url": "/attendance/static/css/2.aa581839.chunk.css"
   },
   {
-    "revision": "b71cc5cb0df125218a56",
+    "revision": "3a840afcd245b653e886",
     "url": "/attendance/static/css/main.fa68f5e4.chunk.css"
   },
   {
-    "revision": "e481370f372befe426f9",
-    "url": "/attendance/static/js/2.68d07724.chunk.js"
+    "revision": "e24e81378618025b9ec0",
+    "url": "/attendance/static/js/2.88f26e29.chunk.js"
   },
   {
     "revision": "5bd09eb7f2cf4d145d532d862be18942",
-    "url": "/attendance/static/js/2.68d07724.chunk.js.LICENSE.txt"
+    "url": "/attendance/static/js/2.88f26e29.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b71cc5cb0df125218a56",
-    "url": "/attendance/static/js/main.2c032559.chunk.js"
+    "revision": "3a840afcd245b653e886",
+    "url": "/attendance/static/js/main.3be5e31d.chunk.js"
   },
   {
     "revision": "525bcfb84968ae73ebcf",
